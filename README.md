@@ -7,11 +7,11 @@
 
 ### **Nombre carpeta**: repo_sept_23
 
-***Repository link:*** https://github.com/Yerayexpo/repo_sept_23
+***Repository link:*** https://github.com/allozgo/trabajo_repo/
 
 *Para clonar este repositorio por https:*
 
-"git clone https://github.com/Yerayexpo/repo_sept_23"
+"git clone https://github.com/allozgo/trabajo_repo/"
 
 - https://developers.google.com/machine-learning/glossary
 
